@@ -1,0 +1,13 @@
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\bin\Debug\PassKey.exe.config
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\bin\Debug\PassKey.exe
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\bin\Debug\PassKey.pdb
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\obj\Debug\PassKey.Forms.AboutBox.resources
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\obj\Debug\PassKey.Forms.ChangePasswordForm.resources
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\obj\Debug\PassKey.LoginForm.resources
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\obj\Debug\PassKey.MainScreen.resources
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\obj\Debug\PassKey.Properties.Resources.resources
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\obj\Debug\PassKey.RegisterForm.resources
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\obj\Debug\PassKey.csproj.GenerateResource.Cache
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\obj\Debug\PassKey.exe
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\obj\Debug\PassKey.pdb
+D:\SoftUni\OtherPojects\PassKey\PassKeyProject\obj\Debug\PassKey.csprojResolveAssemblyReference.cache
